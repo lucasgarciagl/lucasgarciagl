@@ -1,8 +1,8 @@
 ### Olá Sou Lucas Garcia 👋
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasgarciagl&show_icons=true&theme=dracula" width="400" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgarciagl&layout=compact&langs_count=16&theme=dracula"  width="300" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasgarciagl&show_icons=true&theme=tokyonight" width="400" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgarciagl&layout=compact&langs_count=16&theme=tokyonight"  width="300" height="200">
 </p>
 
 ##
@@ -13,6 +13,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+         
 </div>
   
   ##
@@ -26,4 +28,8 @@
 
 <p align="center">
   <img src="https://i.ibb.co/RbCp0Bp/giphy.gif" alt="GIF" width="300" height="200">
+</p>
+
+<p
+<img src="https://github.com/lucasgarciagl/lucasgarciagl/blob/output/github-contribution-grid-snake.svg"
 </p>
